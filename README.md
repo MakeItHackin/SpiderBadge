@@ -1,12 +1,13 @@
 # SpiderBadge
 
-Watch the YouTube video for a demo!  https://www.youtube.com/watch?v=e4Smj5GZ6w4
+DEF CON Spider Badge Available for Purchase Here:  
+https://www.tindie.com/products/27514/  
 
+YouTube demo for DEF CON Spider Badge: https://www.youtube.com/watch?v=6RAVTNYiGI4
+YouTube demo for HOPE XIV Spider Badge: https://www.youtube.com/watch?v=e4Smj5GZ6w4
 
 #### What is it?
-This badge was made for HOPE XIV in New York City.  It was inspired by the security device known as a "Spider Tag" and features circuity and a demo to act like a Retail Store security tag.  It also features the internals of real security tags on the bottom of the badge  (both 8.2 MHz and 58 kHz).
-
-Badges must be picked up in-person at HOPE conference.
+This badge was made for DEF CON 30 and HOPE XIV.  It was inspired by the security device known as a "Spider Tag" and features circuity and a demo to act like a Retail Store security tag.  It also features the internals of real security tags on the bottom of the badge  (both 8.2 MHz and 58 kHz).
 
 The badge has three modes:
 1- Spider Badge Demo:
@@ -26,9 +27,3 @@ USB-C to USB-A Adapter
 Alligator Clip
 Magnet
 Stickers (HOPE and DEF CON)
-
-#### Why did you make it?
-I'm giving a talk at HOPE covering Security Tags and thought it would be fun to make this!
-
-#### What makes it special?
-It's a one-of-a-kind badge that features Retail Security Tags
