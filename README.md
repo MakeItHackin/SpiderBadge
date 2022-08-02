@@ -9,7 +9,7 @@ YouTube demo for HOPE XIV Spider Badge: https://www.youtube.com/watch?v=e4Smj5GZ
 #### What is it?
 This badge was made for DEF CON 30 and HOPE XIV.  It was inspired by the security device known as a "Spider Tag" and features circuity and a demo to act like a Retail Store security tag.  It also features the internals of real security tags on the bottom of the badge  (both 8.2 MHz and 58 kHz).
 
-The badge has three modes:
+The badge has three modes:  
 1- Spider Badge Demo:
 When the Link is broken, an alarm sounds, and is deactivated with a magnet (just like the real thing!)
 
