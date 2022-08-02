@@ -3,7 +3,7 @@
 DEF CON Spider Badge Available for Purchase Here:  
 https://www.tindie.com/products/27514/  
 
-YouTube demo for DEF CON Spider Badge: https://www.youtube.com/watch?v=6RAVTNYiGI4
+YouTube demo for DEF CON Spider Badge: https://www.youtube.com/watch?v=6RAVTNYiGI4  
 YouTube demo for HOPE XIV Spider Badge: https://www.youtube.com/watch?v=e4Smj5GZ6w4
 
 #### What is it?
