@@ -19,11 +19,12 @@ An interactive video game in which you jump over retail security gates
 3 - Flashy Mode
 This mode cycles through different LED animations and screens to show off during the conference.  You can run through the mode once, or keep looping it.
 
-Included:
-Electronic Spider Badge (Fully Assembled)
-LiPo Battery
-USB-C Cable
-USB-C to USB-A Adapter
-Alligator Clip
-Magnet
-Stickers (HOPE and DEF CON)
+Included:  
+Electronic Spider Badge (Fully Assembled)  
+LiPo Battery  
+USB-C Cable  
+USB-C to USB-A Adapter  
+Alligator Clip  
+Magnet  
+Stickers (HOPE and DEF CON)  
+Small DIY SAO Kit (DEF CON version only)  
