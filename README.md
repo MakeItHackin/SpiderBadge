@@ -1,6 +1,6 @@
 #  DEF CON 30 - Spider Badge
 
-## PURCHASE A KIT:
+## PURCHASE HERE:
 https://www.tindie.com/products/27514/  
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
