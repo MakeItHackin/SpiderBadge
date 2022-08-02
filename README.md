@@ -1,12 +1,13 @@
-# SpiderBadge
+#  DEF CON 30 - Spider Badge
 
-DEF CON Spider Badge Available for Purchase Here:  
+## PURCHASE A KIT:
 https://www.tindie.com/products/27514/  
 
+## YOUTUBE TUTORIAL / DEMONSTRATION: 
 YouTube demo for DEF CON Spider Badge: https://www.youtube.com/watch?v=6RAVTNYiGI4  
 YouTube demo for HOPE XIV Spider Badge: https://www.youtube.com/watch?v=e4Smj5GZ6w4
 
-#### What is it?
+## DESCRIPTION:  
 This badge was made for DEF CON 30 and HOPE XIV.  It was inspired by the security device known as a "Spider Tag" and features circuity and a demo to act like a Retail Store security tag.  It also features the internals of real security tags on the bottom of the badge  (both 8.2 MHz and 58 kHz).
 
 The badge has three modes:  
